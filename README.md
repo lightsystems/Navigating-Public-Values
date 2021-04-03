@@ -4,4 +4,4 @@
 
 ---
 
-## [Download Supplemental Material](http://lightsystems.github.io/Navigating-Public-Values/Supplemental_Material.pdf "Download")
+## [Download Supplemental Material](http://lightsystems.github.io/Navigating-Public-Values/File/Supplemental_Material.pdf "Download")
